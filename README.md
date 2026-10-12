@@ -1,47 +1,47 @@
 # Python Bootcamp
 
-## Цель проекта
+## Project Goal
 
-Цель проекта — познакомиться с основами языка Python и научиться решать базовые алгоритмические задачи. В ходе работы отрабатываются ввод и вывод данных, условия, циклы, функции, коллекции, работа со строками, файлами и форматом JSON, а также проверка входных данных.
+The goal of this project is to learn the basics of Python and practice solving fundamental algorithmic problems. The exercises cover input and output, conditionals, loops, functions, collections, working with strings, files, and JSON, as well as validating input data.
 
-## Задания
+## Assignments
 
-### Задание 1. Скалярное произведение
+### Assignment 1. Dot Product
 
-Вычислить скалярное произведение двух векторов в трёхмерном пространстве по их координатам.
+Calculate the dot product of two vectors in three-dimensional space from their coordinates.
 
-### Задание 2. Палиндром
+### Assignment 2. Palindrome
 
-Определить, является ли введённое целое число палиндромом, не используя преобразование числа в строку.
+Determine whether the entered integer is a palindrome without converting the number to a string.
 
-### Задание 3. Фигуры
+### Assignment 3. Shapes
 
-Найти в бинарной матрице отдельные фигуры и посчитать количество квадратов и кругов.
+Find the separate shapes in a binary matrix and count the squares and circles.
 
-### Задание 4. Треугольник Паскаля
+### Assignment 4. Pascal's Triangle
 
-Построить заданное количество строк треугольника Паскаля и проверить корректность введённого числа.
+Build the requested number of rows of Pascal's triangle and validate the entered number.
 
-### Задание 5. Преобразование строки в число
+### Assignment 5. Convert a String to a Number
 
-Самостоятельно преобразовать строку в вещественное число без использования `float()`, умножить результат на два и вывести его с тремя знаками после точки.
+Convert a string to a floating-point number without using `float()`, multiply the result by two, and print it with three digits after the decimal point.
 
-### Задание 6. Фильмы
+### Assignment 6. Movies
 
-Прочитать из JSON-файла два отсортированных по году списка фильмов и объединить их в один отсортированный список.
+Read two lists of movies sorted by year from a JSON file and merge them into a single sorted list.
 
-### Задание 7. Робот
+### Assignment 7. Robot
 
-Найти маршрут робота по прямоугольному полю, позволяющий собрать максимальное количество монет при движении только вправо или вниз.
+Find a route for a robot across a rectangular grid that collects the maximum number of coins while moving only right or down.
 
-### Задание 8. Различные числа
+### Assignment 8. Distinct Numbers
 
-Посчитать количество различных целых чисел среди введённых значений.
+Count the number of distinct integers among the entered values.
 
-### Задание 9. Производная в точке
+### Assignment 9. Derivative at a Point
 
-Вычислить значение производной заданного многочлена в указанной точке.
+Calculate the value of the derivative of a given polynomial at a specified point.
 
-### Задание 10. Аппараты
+### Assignment 10. Devices
 
-Выбрать два аппарата одного года выпуска с требуемым общим временем работы и минимальной суммарной стоимостью.
+Choose two devices manufactured in the same year that meet the required combined operating time and have the lowest total cost.
